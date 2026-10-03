@@ -1,0 +1,8 @@
+{
+  "name": "AI/ML Engineering in 200 Days",
+  "short_name": "AI/ML 200",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b16",
+  "theme_color": "#0b1020"
+}
